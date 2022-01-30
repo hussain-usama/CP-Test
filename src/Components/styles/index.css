@@ -1,0 +1,29 @@
+/* ALL COMPONENTS CSS */
+
+/* =======CARD COMPONENT====== */
+.postsCard{
+    border: 2px solid #442445;
+    height: 100%;
+}
+.paraText{
+    font-family: 'Poppins';
+}
+
+/* ======FOOTER COMPONENT===== */
+.footerMain{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #FFF;
+   text-align: center;
+   border-top: 2px solid #442445;
+}
+.addPostBtn{
+    border: 1px solid #442445;
+    background-color: #442445;
+    color: #FFF;
+    /* width: 100%; */
+    border-radius: 6px;
+    height: 40px;
+}
